@@ -1,4 +1,4 @@
-package com.springframework.spring5webapp.camelСaseTest.testpack;
+package com.springframework.spring5webapp.camelcasetest.testpack;
 
 public class InnerTest {
 

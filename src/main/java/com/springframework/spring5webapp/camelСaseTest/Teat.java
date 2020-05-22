@@ -1,4 +1,4 @@
-package com.springframework.spring5webapp.camelСaseTest;
+package com.springframework.spring5webapp.camelcasetest;
 
 public class Teat {
 
